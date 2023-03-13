@@ -73,7 +73,7 @@
 
   <h2 align="center">Github Stats</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=nightmare1200&layout=compat&show_icons=true&theme=radical" width="1000" alt="stats" style="width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nightmare1200&layout=compat&show_icons=true&theme=radical" alt="stats" />
   
 <!--   [![Muhammad's Github stats](https://github-readme-stats.vercel.app/api?username=nightmare1200&layout=compat&show_icons=true&theme=radical)](https://github.com/nightmare1200/nightmare1200) -->
   
