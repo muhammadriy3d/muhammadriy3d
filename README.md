@@ -1,32 +1,90 @@
+<h1 align="center"><b>Hi there, I'm Muhammad <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving hand" width="30px"></h1>
 <div align="center">
-  <h1>Hi there, I'm Muhammad</h1>
-  <p>This text will be centered.</p>
-</div>
+<div style="font-family: serif;">Let's get connected!</div>
+<br/>
+<a href="https://itfamily.tk/"><img src="https://img.shields.io/badge/DevSpace-f0f0f0?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://codepen.io/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://dev.to/nightmare1200"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
+<!-- <a href=""><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp; -->
+</div>  
+  
+<br />
 
-<p dir="auto">
-<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/342384b64cc1f70f9fd62fc40847e7c429efc5face12a29ce75d7331b1f5e864/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d5372697368746934342d672e76697369746f722d6261646765"><img src="https://camo.githubusercontent.com/342384b64cc1f70f9fd62fc40847e7c429efc5face12a29ce75d7331b1f5e864/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d5372697368746934342d672e76697369746f722d6261646765" alt="Visitor badge" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=nightmare1200.visitor-badge" style="max-width: 100%;"></a></p>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-I'm [Your Name], a passionate [Your Occupation] from [Your Country]. I love to learn and work on exciting projects that make a difference.
+  <h2 align="center">About Me</h2>  
+  
+- 🤵 I'm Muhammad, a passionate in technology and self-taught person from Jordan. I love to learn and work on exciting projects that make a difference.
+- 💬 Do you need help? or anything feel free to ask me :)
+- 🍎 Fun fact: Apple is useful.
 
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [Current Course/Technology]
-- 👯 I’m looking to collaborate on [Open Source Project]
-- 🤔 I’m looking for help with [Current Challenge]
-- 💬 Ask me about [Any Topic]
-- 📫 How to reach me: [Your Website], [LinkedIn], [Twitter]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Fun Fact]
+</td>
+<td valign="top" width="50%">
 
-### Technologies and Tools
+  <h2 align="center">Open source project (SOON)</h2>
+  
+  - AI and machine learning projects
+  - others
+  
+</td>
+</tr>
+</table>
 
-[Add your list of technologies and tools here]
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### GitHub Stats
+  <h2 align="center">Technologies and Tools</h2>
+    
+  <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img scr="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  
+</td>
+<td valign="top" width="50%">
 
-[![Muhammad's Github stats](https://github-readme-stats.vercel.app/api?username=muhammad&show_icons=true&theme=radical)](https://github.com/nightmare1200/nightmare1200)
+  <h2 align="center">Top languages</h2>
 
-### Top Languages
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightmare1200&layout=compat&theme=radical)](https://github.com/nightmare1200/nightmare1200)
+   -->
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmare1200&layout=compact&theme=radical" width="500" />
+  
+</td>
+</tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad&layout=compat&theme=radical)](https://github.com/nightmare1200/nightmare1200)
+<table style="width: 100%;">
+<tr>
+  
+<td valign="top" width="100%">
+
+  <h2 align="center">Github Stats</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=nightmare1200&layout=compat&show_icons=true&theme=radical" width="1000" alt="stats" style="width: 100%;" />
+  
+<!--   [![Muhammad's Github stats](https://github-readme-stats.vercel.app/api?username=nightmare1200&layout=compat&show_icons=true&theme=radical)](https://github.com/nightmare1200/nightmare1200) -->
+  
+</td>
+<!-- <td valign="top" width="50%">
+
+  <h2 align="center"></h2> 
+ 
+  
+</td>-->
+</tr>
+  
+</table>
+
 
