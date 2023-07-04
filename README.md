@@ -6,7 +6,7 @@
 <a href="https://itfamily.tk/"><img src="https://img.shields.io/badge/DevSpace-f0f0f0?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://codepen.io/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://dev.to/nightmare1200"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
+<a href="https://dev.to/muhammadriy3d"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
 <!-- <a href=""><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp; -->
 </div>  
   
@@ -57,10 +57,10 @@
 
   <h2 align="center">Top languages</h2>
 
-  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightmare1200&layout=compat&theme=radical)](https://github.com/nightmare1200/nightmare1200)
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadriy3d&layout=compat&theme=radical)](https://github.com/muhammadriy3d/muhammadriy3d)
    -->
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmare1200&layout=compact&theme=radical" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadriy3d&layout=compact&theme=radical" width="500" />
   
 </td>
 </tr>
@@ -73,9 +73,9 @@
 
   <h2 align="center">Github Stats</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=nightmare1200&layout=compat&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadriy3d&layout=compat&show_icons=true&theme=radical" alt="stats" />
   
-<!--   [![Muhammad's Github stats](https://github-readme-stats.vercel.app/api?username=nightmare1200&layout=compat&show_icons=true&theme=radical)](https://github.com/nightmare1200/nightmare1200) -->
+<!--   [![Muhammad's Github stats](https://github-readme-stats.vercel.app/api?username=muhammadriy3d&layout=compat&show_icons=true&theme=radical)](https://github.com/muhammadriy3d/muhammadriy3d) -->
   
 </td>
 <!-- <td valign="top" width="50%">
