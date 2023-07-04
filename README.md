@@ -20,7 +20,7 @@
   
 - 🤵 I'm Muhammad, a passionate in technology and self-taught person from Jordan. I love to learn and work on exciting projects that make a difference.
 - 💬 Do you need help? or anything feel free to ask me :)
-- 🍎 Fun fact: Apple is useful.
+//- 🍎 Fun fact: Apple is useful.
 
 </td>
 <td valign="top" width="50%">
