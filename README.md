@@ -79,7 +79,7 @@
   
 </td>
 <td valign="top" width="50%"> 
-    <h2 align="center">Most used Languages</h2>
+<!--     <h2 align="center">Most used Languages</h2> -->
 
   <div align="center">
 
