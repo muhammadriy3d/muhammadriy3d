@@ -57,7 +57,7 @@
   <h2 align="center">Top Languages</h2>
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadriy3d&layout=compact&theme=radical)](https://github.com/muhammadriy3d/muhammadriy3d)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadriy3d&layout=donut&theme=radical)](https://github.com/muhammadriy3d/muhammadriy3d)
   
 </div>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadriy3d&layout=compact&theme=radical" width="500" /> -->
@@ -79,14 +79,25 @@
   
 </td>
 <td valign="top" width="50%"> 
-    <h2 align="center">Last Project</h2>
+    <h2 align="center">Most used Languages</h2>
 
   <div align="center">
-  
- <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
   
 </div>
 </td>
+</tr>
+
+<tr width="100%">
+
+  <td>
+
+  <h2>Works Stats</h2>
+
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadriy3d)](https://github.com/muhammadriy3d/muhammadriy3d)  
+  
+  </td>
 </tr>
   
 </table>
