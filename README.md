@@ -57,8 +57,7 @@
 
   <h2 align="center">Top languages</h2>
 
-  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadriy3d&layout=compat&theme=radical)](https://github.com/muhammadriy3d/muhammadriy3d)
-   -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadriy3d&layout=compat&theme=radical)](https://github.com/muhammadriy3d/muhammadriy3d)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadriy3d&layout=compact&theme=radical" width="500" />
   
@@ -75,10 +74,10 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadriy3d&layout=compat&show_icons=true&theme=radical" alt="stats" />
   
-<!--   [![Muhammad's Github stats](https://github-readme-stats.vercel.app/api?username=muhammadriy3d&layout=compat&show_icons=true&theme=radical)](https://github.com/muhammadriy3d/muhammadriy3d) -->
+[![Muhammad's Github stats](https://github-readme-stats.vercel.app/api?username=muhammadriy3d&layout=compat&show_icons=true&theme=radical)](https://github.com/muhammadriy3d/muhammadriy3d)
   
 </td>
-<!-- <td valign="top" width="50%">
+ <td valign="top" width="50%"> 
 
   <h2 align="center"></h2> 
  
