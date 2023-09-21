@@ -67,9 +67,9 @@
 </table>
 
 <table style="width: 100%;">
-<tr>
+<tr width="100%">
   
-  <td valign="top" width="50%">
+  <td valign="top" width="100%">
 
   <h2 align="center">GitHub Stats</h2>
   
@@ -78,20 +78,20 @@
   [![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadriy3d&layout=compat&show_icons=true&theme=radical&prs&show=reviews,discussions_started,discussions_answered)](https://github.com/muhammadriy3d/muhammadriy3d)
   
 </td>
-<td valign="top" width="50%"> 
-<!--     <h2 align="center">Most used Languages</h2> -->
+<!--  <td valign="top" width="50%"> 
+    <h2 align="center">Most used Languages</h2> 
 
   <div align="center">
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-</td>
+</td> -->
 </tr>
 
-<tr width="100%">
+<tr width="100%" align="center">
 
-  <td>
+  <td width="100%">
 
   <h2>Works Stats</h2>
 
