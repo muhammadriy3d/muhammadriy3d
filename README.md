@@ -39,25 +39,33 @@
 
   <h2 align="center">Technologies and Tools</h2>
     
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/nodejs-darkgreen?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=70fcff" />
-  <img src="https://img.shields.io/badge/Py-thon-blue?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-nodejs-darkgreen?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-282c34?style=for-the-badge&logo=react&logoColor=70fcff" />
+  <img src="https://img.shields.io/badge/-Pyhon-blue?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Flask-grey?style=for-the-badge&logo=Flask&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/java-4387cb?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-8589c8?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C/C++-%230361aa.svg?style=for-the-badge&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/Asmbelly-blue?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/xampp-orange?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-java-4387cb?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-php-8589c8?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C/C++-%230361aa.svg?style=for-the-badge&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Asmbelly-blue?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android-%2302CC20.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android Studio-%2302CC20.svg?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-flutter-%23ffffff.svg?style=for-the-badge&logo=flutter&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-SQLite-%23153e5c.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-%23ffa200.svg?style=for-the-badge&logo=mysql&logoColor=auto" />
+  <img src="https://img.shields.io/badge/-Firebase-%23fafafa.svg?style=for-the-badge&logo=firebase&logoColor=auto" />
+  <img src="https://img.shields.io/badge/-MongoDB-%2314a359.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/-xampp-orange?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Adobe-%23ff0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adobe-%23ff0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloud-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" />
   
 </td>
 <td valign="top" width="50%">
