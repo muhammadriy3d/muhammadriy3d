@@ -109,7 +109,7 @@
 
   <h2>Works Stats</h2>
 
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/pin?username=muhammadriy3d&repo=family)](https://github.com/muhammadriy3d/muhammadriy3d/family)  
+  [![Family repo stats](https://github-readme-stats.vercel.app/api/pin?username=muhammadriy3d&repo=family)](https://github.com/muhammadriy3d/family)  
   
   </td>
 </tr>
