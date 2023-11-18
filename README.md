@@ -3,11 +3,9 @@
   <h4>Welcome to my GitHub profile!</h4>
   <div style="font-family: serif;">Let's get connected!</div>
   <br/>
-  <a href="https://truprox.com/"><img src="https://img.shields.io/badge/Truprox-orange?style=for-the-badge&logo=thingiverse&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://instagram.com/truproxtech"><img src="https://img.shields.io/badge/Instagram-ff0a90?style=for-the-badge&logo=instagram&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://muhammad.truprox.com/"><img src="https://img.shields.io/badge/Truprox-orange?style=for-the-badge&logo=thingiverse&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://codepen.io/muhammadri3d"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
   <a href="https://twitter.com/truproxtech"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
-  <a href="https://dev.to/muhammadriyad"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
   <!-- <a href=""><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp; -->
 </div>  
 
@@ -31,9 +29,7 @@
   
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td valign="top" width="50%">
 
@@ -80,12 +76,10 @@
   
 </td>
 </tr>
-</table>
 
-<table style="width: 100%;">
-<tr width="100%">
+<tr width="100%" >
   
-  <td valign="top" width="100%">
+  <td valign="top" width="50%">
 
   <h2 align="center">GitHub Stats</h2>
   
@@ -94,6 +88,14 @@
   [![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadriy3d&layout=compat&show_icons=true&theme=radical&prs&show=reviews,discussions_started,discussions_answered)](https://github.com/muhammadriy3d)
   
 </td>
+
+  <td width="50%">
+
+  <h2 align="center">Works Stats</h2>
+
+  [![Family repo stats](https://github-readme-stats.vercel.app/api/pin?username=muhammadriy3d&repo=full-stack-dev-journey)](https://github.com/muhammadriy3d/full-stack-dev-journey)  
+
+</td>
 <!--  <td valign="top" width="50%"> 
     <h2 align="center">Most used Languages</h2> 
 
@@ -101,17 +103,6 @@
 
 </div>
 </td> -->
-</tr>
-
-<tr width="100%" align="center">
-
-  <td width="100%">
-
-  <h2>Works Stats</h2>
-
-  [![Family repo stats](https://github-readme-stats.vercel.app/api/pin?username=muhammadriy3d&repo=family)](https://github.com/muhammadriy3d/family)  
-  
-  </td>
 </tr>
   
 </table>
