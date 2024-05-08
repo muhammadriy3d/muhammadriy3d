@@ -3,7 +3,7 @@
   <h4>Welcome to my GitHub profile!</h4>
   <div style="font-family: serif;">Let's get connected!</div>
   <br/>
-  <a href="https://muhammad.truprox.com/"><img src="https://img.shields.io/badge/Truprox-orange?style=for-the-badge&logo=thingiverse&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://muhammadriyad.pages.dev/"><img src="https://img.shields.io/badge/Muhammad-black?style=for-the-badge&logo=thingiverse&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://codepen.io/muhammadri3d"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
   <a href="https://twitter.com/truproxtech"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
   <!-- <a href=""><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp; -->
